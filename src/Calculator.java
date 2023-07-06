@@ -1,6 +1,6 @@
 // by https://github.com/COLDPROYT (GitHub)
 // by https://vk.com/coldpro2022 (VKontakt)
-// by https://t.me/github_COLDPROYT (Telegram)
+// by https://t.me/coldyt (Telegram)
 
 import java.util.Scanner;
 
@@ -11,13 +11,13 @@ public class Calculator {
         Scanner StringScanner = new Scanner(System.in);
 
 
-        System.out.print("Введите первое число: ");
+        System.out.print("Г‚ГўГҐГ¤ГЁГІГҐ ГЇГҐГ°ГўГ®ГҐ Г·ГЁГ±Г«Г®: ");
         int a = IntScanner.nextInt();
 
-        System.out.print("Введите второе число: ");
+        System.out.print("Г‚ГўГҐГ¤ГЁГІГҐ ГўГІГ®Г°Г®ГҐ Г·ГЁГ±Г«Г®: ");
         int b = IntScanner.nextInt();
 
-        System.out.print("Введите операцию: ");
+        System.out.print("Г‚ГўГҐГ¤ГЁГІГҐ Г®ГЇГҐГ°Г Г¶ГЁГѕ: ");
         String oper = StringScanner.nextLine();
 
 
